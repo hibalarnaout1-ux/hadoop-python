@@ -1,0 +1,5 @@
+2012-12-31	17:59	Chula Vista	Music	380.67	Visa
+2012-12-31	17:59	Hialeah	Toys	115.21	MasterCard
+2012-12-31	17:59	Chula Vista	DVDs	19.33	Cash
+2012-12-31	17:59	Reno	Baby	277.27	Discover
+2012-12-31	17:59	Hialeah	Toys	84.79	Amex

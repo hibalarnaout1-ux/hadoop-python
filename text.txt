@@ -1,0 +1,4 @@
+2024-01-01	10:00	MagasinA	Produit1	100	Cash
+2024-01-01	11:00	MagasinB	Produit2	200	Card
+2024-01-02	12:00	MagasinA	Produit3	150	Cash
+2024-01-02	13:00	MagasinB	Produit4	50	Card
